@@ -1,2 +1,2 @@
-Hello
- World with Git
+Hello World
+World with Git
